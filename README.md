@@ -16,11 +16,6 @@
 - [My Little Pony: A new Generation](https://www.youtube.com/watch?v=Pa_PRDVpjSk)
 - [Spirit Untamed](https://www.youtube.com/watch?v=9jG1nnQGpdI)
 
-<!--
-**jdshortiss/jdshortiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building a renderer
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on creative projects
@@ -28,4 +23,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about my experience in industry and academia
 - 📫 How to reach me: jdshortiss@hotmail.com
 - 😄 Pronouns: He/Him
--->
