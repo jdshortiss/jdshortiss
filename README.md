@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [Dice Game](https://github.com/jdshortiss/dice_game_task_001)
-  - [Encryotion](https://github.com/jdshortiss/EncryptionTask_001)
+  - [Encryption](https://github.com/jdshortiss/EncryptionTask_001)
 
 <h2>📺 Trailers</h2>
 
