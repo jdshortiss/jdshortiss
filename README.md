@@ -1,4 +1,4 @@
-<h1>Hi, I am a BA graduate with 5 years of experience in the VFX/Animation industry specialising in Render, Capture, Virtual Production and R&D. I have worked on 7 feature length films in this time. </h1>
+<h1>Hi, I am Jack! </h1>
 
 <h2>👨‍💻 Coding Examples [WIP]</h2>
 
