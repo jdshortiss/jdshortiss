@@ -16,6 +16,8 @@
 - [My Little Pony: A new Generation](https://www.youtube.com/watch?v=Pa_PRDVpjSk)
 - [Spirit Untamed](https://www.youtube.com/watch?v=9jG1nnQGpdI)
 
+<h2>About Me</h2>
+
 - 🔭 I’m currently working on building a renderer
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on creative projects
