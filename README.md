@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [Uber Camera - Maya](https://github.com/jdshortiss/uber_camera)
-  - [Encryption](https://github.com/jdshortiss/EncryptionTask_001)
+  - [Colour Applicator - MotionBuilder](https://github.com/jdshortiss/colour_applicator)
   - [Log Analysis](https://github.com/jdshortiss/log_analysis)
 
 <h2>📺 Trailers</h2>
