@@ -3,7 +3,7 @@
 <h2>👨‍💻 Coding Examples [WIP]</h2>
 
 - <b>Python</b>
-  - [Dice Game](https://github.com/jdshortiss/dice_game_task_001)
+  - [Uber Camera - Maya](https://github.com/jdshortiss/uber_camera)
   - [Encryption](https://github.com/jdshortiss/EncryptionTask_001)
   - [Log Analysis](https://github.com/jdshortiss/log_analysis)
 
